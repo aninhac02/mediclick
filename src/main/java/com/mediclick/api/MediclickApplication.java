@@ -1,4 +1,4 @@
-package com.mediclick;
+package com.mediclick.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
