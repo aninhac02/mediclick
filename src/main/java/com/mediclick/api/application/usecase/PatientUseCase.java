@@ -1,4 +1,6 @@
 package com.mediclick.api.application.usecase;
 
-public class PatientUseCase {
+public interface PatientUseCase {
+
+    // aqui é o contrato
 }
