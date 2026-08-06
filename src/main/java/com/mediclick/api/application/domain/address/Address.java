@@ -1,4 +1,4 @@
-package com.mediclick.api.domain.address;
+package com.mediclick.api.application.domain.address;
 
 import java.util.UUID;
 

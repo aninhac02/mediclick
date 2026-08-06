@@ -1,4 +1,4 @@
-package com.mediclick.api.domain.appointment;
+package com.mediclick.api.application.domain.appointment;
 
 import java.math.BigDecimal;
 import java.util.UUID;
